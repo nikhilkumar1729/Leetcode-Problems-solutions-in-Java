@@ -1,0 +1,6 @@
+Sort the array in non-decreasing order. 
+Loop through each element arr[i] from index 0 to n-2. 
+For each arr[i], calculate complement = target - arr[i]. 
+Perform binary search for complement in the subarray from index i+1 to n-1. 
+If the complement is found, return true. 
+If the loop completes without finding any valid pair, return false.
