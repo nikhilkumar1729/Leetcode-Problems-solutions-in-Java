@@ -1,0 +1,18 @@
+# Leetcode-Problems-solutions-in-Javaleetcode-java-solutions/
+│
+├── README.md
+│
+├── easy/
+│   ├── TwoSum.java
+│   ├── ValidPalindrome.java
+│
+├── medium/
+│   ├── AddTwoNumbers.java
+│   ├── LongestSubstringWithoutRepeatingCharacters.java
+│
+├── hard/
+│   ├── MedianOfTwoSortedArrays.java
+│
+├── utils/                 (optional)
+│   ├── ListNode.java
+│   └── TreeNode.java
